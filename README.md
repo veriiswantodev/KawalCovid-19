@@ -1,5 +1,5 @@
 # KawalCovid-19
-Submission Dicoding Belajar Fundamental Front End Web Developer
+Submission Dicoding Belajar Fundamental Front End Web Developer<br>
 Silahkan Clone atau Download Project sebagai referensi pembuatan tugas akhir
 
 --------------------------------------------------------------------
@@ -19,6 +19,7 @@ npm run build
 npm run start-dev
 </ol>
 
+------------------------------------------------------------------------------
 KRITERIA SUBMISSION
 
 Menggunakan standar ES6 sintaks dalam menuliskan kode JavaScript pada proyek yang dibuat.
