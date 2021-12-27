@@ -28,3 +28,6 @@ Menggunakan Webpack sebagai module bundler (tahap produksi).
 Memanfaatkan Webpack sebagai environment dalam pengembangan proyek (tahap development).
 Memanfaatkan API dengan menggunakan konsep AJAX dalam menampilkan data yang dinamis pada aplikasi yang dibuat.
 Anda bebas menentukkan tema aplikasi yang ingin dibuat, <b>terkecuali</b> tema _Club Finder/_Pencarian Klub Olahraga, Sepak Bola, atau Dicoding Books.
+
+
+![image](https://user-images.githubusercontent.com/55525236/147512727-d9b12741-74a4-4195-ad83-c702ea09564b.png)
